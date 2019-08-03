@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Choose your pets</title>
+	</head>
+	<body>
+		<h1>Choose your pets</h1>
+		<form>
+			<p>Do you prefer cats or dogs?</p>		
+			<label for="dogs">Dogs</label>
+			<input id="dogs" type="radio" name="petChoice" value="DOGS">
+			<label for="cats">Cats</label>
+			<input id="cats" type="radio" name="petChoice" value="CATS">
+			<p>What's your favorite color?</p>
+			<select name="color">
+				<option value="brown">Brown</option>
+				<option value="black">Black</option>
+				<option value="white">White</option>
+				<option value="colorful">Colorful</option>
+			</select>
+			<hr>
+			<label for="paragraph">Tell us about your perfect pet:</label>
+			<textarea id="paragraph" name="paragraph" rows="10" cols="50"></textarea>
+			<input type="submit" name="submit">
+		</form>
+	</body>
+</html>
