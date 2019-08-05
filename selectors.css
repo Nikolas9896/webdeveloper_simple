@@ -17,5 +17,7 @@ h4 + ul {
 	border: 1px solid steelblue;
 }
 /*Attribute Sleector*/
-
+a[href="http://www.google.com"] {
+	background: steelblue;
+}
 /*nth of type*/
