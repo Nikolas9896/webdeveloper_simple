@@ -1,0 +1,12 @@
+body	{
+	background: black;
+}
+
+h1	{
+	color: white;
+}
+
+li	{
+	border: 2px solid steelblue;
+	color: white;
+}
