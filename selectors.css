@@ -9,7 +9,9 @@
 	border: 1px dashed lightgrey;
 }
 /*Descendant Selector*/
-
+ul li a {
+	color: black;
+}
 /*Adjacent Selector*/
 
 /*Attribute Sleector*/
