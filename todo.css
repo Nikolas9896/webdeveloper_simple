@@ -7,6 +7,15 @@ h1	{
 }
 
 li	{
-	border: 2px solid steelblue;
-	color: white;
+	border: 1px solid steelblue;
+	color: lightgray;
+}
+
+#special {
+	background: yellow;
+}
+.blues {
+	background: blue;
+	text-decoration: line-through;
+	
 }
