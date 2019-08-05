@@ -5,7 +5,9 @@
 /*id*/
 
 /*Star*/
-
+* {
+	border: 1px dashed lightgrey;
+}
 /*Descendant Selector*/
 
 /*Adjacent Selector*/
